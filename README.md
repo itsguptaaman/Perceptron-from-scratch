@@ -36,3 +36,12 @@ git branch -M main
 ```
 git push origin main
 ```
+
+# To check the list of environments
+```
+conda env list
+```
+# 8. To delete conda environment
+```
+ conda env remove -n env_name
+```
